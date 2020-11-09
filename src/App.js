@@ -1,12 +1,11 @@
 
 import './App.css';
+import DonutChart from './donutChart';
 
 function App() {
   return (
     <div >
-      Hello world from Sajid ..!
-    This change is from github online
-    This change is from smartgit to change username
+      <DonutChart/>
     </div>
   );
 }
